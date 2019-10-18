@@ -1,0 +1,30 @@
+20
+#Here is the number of lines required: 14
+##start
+start 0 0
+##end
+end 0 1
+1 1 1
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+6 6 6
+7 7 7
+8 8 8
+9 9 9
+10 10 10
+start-1
+start-9
+1-2
+9-3
+3-4
+4-5
+4-8
+2-10
+8-10
+5-6
+6-7
+7-end
+2-end
+10-9

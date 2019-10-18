@@ -1,0 +1,21 @@
+4
+#Here is the number of lines required: 6
+##start
+S 4 0
+##end
+Q 4 6
+A 3 4
+B 0 4
+C 4 2
+D 4 4
+E 8 2
+G 8 4
+J 5 2
+extra 7 7
+S-A
+A-B
+B-Q
+S-C
+C-D
+D-B
+B-extra

@@ -1,0 +1,10 @@
+2
+##start
+sdf 0 0
+##end
+middle_t2 3 5
+Syr1 12 12
+sd-f 345 4
+sdf-Syr1
+Syr1-sd-f
+sd-f-middle_t2

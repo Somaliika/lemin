@@ -1,0 +1,29 @@
+10
+#Here is the number of lines required: 9
+##start
+start 0 0
+##end
+end 5 7
+1 1 1
+11 11 11
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+6 6 6
+7 7 7
+8 8 8
+t 1111 1111
+2-5
+5-6
+6-7
+7-8
+8-end
+start-1
+1-11
+11-end
+start-2
+5-3
+3-11
+3-4
+4-t
